@@ -1,6 +1,3 @@
-Sure! Here's a README template you can use for your GitHub repository. It provides an overview of the project, how to set it up, and how to use it.
-
----
 
 # Job Scraper
 
